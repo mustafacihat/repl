@@ -8,7 +8,13 @@ public class Repl17PrintVariable7 {
 	    String topic1 = scan.nextLine();
 	    String topic2 = scan.nextLine();
 	    
-	    System.out.println("I will learn " + topic1 + "and" + topic2 + "at CybertekSchool.");
+	    if (topic1.equals("Java")) {
+			System.out.println("I will learn \"" + topic1 + "\" and \"" + topic2 + "\" at CybertekSchool.");
+		}else {
+			System.out.println("I will learn "+ topic1+"and " + topic2+"at CybertekSchool");
+		}
+	    
+	    
 	}
 
 }
