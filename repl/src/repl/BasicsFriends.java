@@ -1,6 +1,6 @@
 package repl;
 
-public class Repl15 {
+public class BasicsFriends {
 	
 	public static void main(String[] args) {
 		String p1 = "James";

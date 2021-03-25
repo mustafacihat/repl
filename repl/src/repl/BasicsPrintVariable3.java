@@ -2,7 +2,7 @@ package repl;
 
 import java.util.Scanner;
 
-public class Repl12PrintVariable3 {
+public class BasicsPrintVariable3 {
 	public static void main(String[] args) {
 		// DO NOT TOUCH THESE LINES. TEACHER NEEDS THEM TO TEST YOUR CODE:
 		// variables are already declared, all you have to do is to use the variables

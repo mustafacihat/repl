@@ -2,7 +2,7 @@ package repl;
 
 import java.util.Scanner;
 
-public class Repl14PrintVariable5 {
+public class BasicsPrintVariable5 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 

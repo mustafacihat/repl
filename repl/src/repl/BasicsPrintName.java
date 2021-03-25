@@ -1,6 +1,6 @@
 package repl;
 
-public class Repl3PrintName {
+public class BasicsPrintName {
 	public static void main(String[] args) {
 		System.out.println("Turing, Alan");
 	}
