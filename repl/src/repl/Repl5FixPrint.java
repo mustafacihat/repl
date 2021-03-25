@@ -1,8 +1,7 @@
 package repl;
 
-public class repl2 {
+public class Repl5FixPrint {
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		System.out.println("Q");
 	}
-
 }
