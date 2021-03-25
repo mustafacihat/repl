@@ -1,4 +1,4 @@
-package repl;
+package basics;
 
 public class BasicsPrintName {
 	public static void main(String[] args) {

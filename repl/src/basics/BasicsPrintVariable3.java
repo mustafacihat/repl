@@ -1,4 +1,4 @@
-package repl;
+package basics;
 
 import java.util.Scanner;
 

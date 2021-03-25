@@ -1,4 +1,4 @@
-package repl;
+package basics;
 
 public class BasicsPrintSquare {
 	public static void main(String[] args) {

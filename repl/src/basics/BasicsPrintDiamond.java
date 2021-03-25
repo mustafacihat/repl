@@ -1,4 +1,4 @@
-package repl;
+package basics;
 
 public class BasicsPrintDiamond {
 	public static void main(String[] args) {

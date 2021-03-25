@@ -1,4 +1,4 @@
-package repl;
+package basics;
 
 public class BasicsHelloWorld2 {
 	public static void main(String[] args) {
