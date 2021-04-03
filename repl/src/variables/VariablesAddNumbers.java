@@ -11,7 +11,6 @@ public class VariablesAddNumbers {
 	    int sum = in.nextInt();
 	    sum += in.nextInt();
 	    sum += in.nextInt();
-
 	    System.out.println("Sum of numbers: " + sum);
 	}
 
